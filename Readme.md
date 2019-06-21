@@ -5,6 +5,9 @@
 * [MainPage.xaml.cs](./CS/SilverlightApplication1/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication1/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to create a movable legend at runtime
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3839)**
+<!-- run online end -->
 
 
 <p>This example shows how to provide the capability for end-users to move a chart's legend at runtime.</p><br />
